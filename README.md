@@ -27,7 +27,7 @@ A lightweight **React + Vite** practice app for building a movie-style UI: cards
 
 ## 📁 Project preview
 
-!(project screenshot)[/public/home.png]
-!(project screenshot)[/public/search.png]
-!(project screenshot)[/public/fav.png]
-!(project screenshot)[/public/fav_page.png]
+![project screenshot](/public/home.png)
+![project screenshot](/public/search.png)
+![project screenshot](/public/fav.png)
+![project screenshot](/public/fav_page.png)
